@@ -58,3 +58,7 @@ ai-engineer-journey/
 ├── llm-engineering/
 ├── projects/
 └── README.md
+
+## Git Branch Practice
+
+Learning branching workflow.
