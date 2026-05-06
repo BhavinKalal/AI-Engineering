@@ -61,3 +61,6 @@ ai-engineer-journey/
 
 ## Current Focus
 Learning Git and GitHub workflow.
+
+## Git Branch Practice
+Learning branching workflow.
