@@ -58,3 +58,6 @@ ai-engineer-journey/
 ├── llm-engineering/
 ├── projects/
 └── README.md
+
+## Current Focus
+Learning Git and GitHub workflow.
